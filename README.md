@@ -3,9 +3,11 @@
 ### ✨ Hi there! I'm Liubov Burtseva, Python Backend Developer (Middle)✨ 
 
 ### ✨ Technologies I use: 
+- Languages: Python 3 for work and C# for university purposes
 - Frameworks: Django, Django REST Framework, Flask, Fast API, 
 - Data Bases and ORM: PostgreSQL, Django ORM, SQL Alchemy 
 - Others: Celery, Redis, Dramatiq, Docker.
+- C# (mainly for university purposes)
 
 ### ✨ Close-up:
 
