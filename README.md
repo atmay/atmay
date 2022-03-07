@@ -7,7 +7,6 @@
 - Frameworks: Django, Django REST Framework, Flask, Fast API, 
 - Data Bases and ORM: PostgreSQL, Django ORM, SQL Alchemy 
 - Others: Celery, Redis, Dramatiq, Docker.
-- C# (mainly for university purposes)
 
 ### ✨ Close-up:
 
