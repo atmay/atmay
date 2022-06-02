@@ -1,6 +1,6 @@
 ##  Python Backend Developer
 
-### ✨ Hi there! I'm Liubov Burtseva, Python Backend Developer✨ 
+### ✨ Hi there! I'm Liubov Burtseva, Python Backend Developer from Israel ✨ 
 
 ### ✨ Technologies I use: 
 - Languages: Python 3 for work and C# for academical purposes
