@@ -4,7 +4,7 @@
 
 ### ✨ Technologies I use: 
 - Languages: Python 3 for work and C# for academical purposes
-- Frameworks: Django, Django REST Framework, Flask, Fast API, 
+- Frameworks: Django, Django REST Framework, Flask, Fast API
 - Data Bases and ORM: PostgreSQL, Django ORM, SQL Alchemy, Peewee
 - Others: Celery, Redis, Dramatiq, Docker.
 
