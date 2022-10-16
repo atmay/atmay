@@ -10,8 +10,8 @@
 
 ### ✨ Close-up:
 
-- 🌱 I’m **Python Backend Developer** with 2+ years of commercial experience
+- 🌱 I’m **Python Backend Developer**
 - 🌱 Right now I'm working on corporal intranet services for over 2 000 of my coworkers - it's fun!
-- 🌱 Also I'm getting **master degree in Computer Science** - that's how I learned C and C#
-- 🌱 I fluently speak English, Polish, Turkish and Russian
+- 🌱 Also I'm getting **master degree in Computer Science** - that's how I learned C#
+- 🌱 I fluently speak English, Polish, Turkish and Russian, now study Hebrew (already at Bet)
 - 🌱 Fun fact: I'm amateur ballet dancer
