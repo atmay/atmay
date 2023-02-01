@@ -12,5 +12,5 @@
 
 - 🌱 I’m **Python Backend Developer (Flask, Django, FastAPI)**
 - 🌱 Right now I'm making roads smart at Valerann - it's fun!
-- 🌱 I fluently speak English, Polish, Turkish and Russian, now study Hebrew (already at Bet)
+- 🌱 I fluently speak English, Polish, Turkish and Russian, now I'm learning Hebrew (already at Bet)
 - 🌱 Fun fact: I'm amateur ballet dancer
