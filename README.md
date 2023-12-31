@@ -1,12 +1,15 @@
 ##  Python Backend Developer
 
-### ✨ Hi there! I'm Liubov Burtseva, Python Backend Developer from Israel ✨ 
+### ✨ Hi there! I'm Liubov Burtseva, Python Backend Developer based in Israel ✨ 
 
 ### ✨ Technologies I use: 
 - Languages: Python 3 for work and C# for academical purposes
-- Frameworks: Django, Django REST Framework, Flask, Fast API
-- Databases and ORM: PostgreSQL, postgis, Django ORM, SQL Alchemy, Peewee, pure SQL
-- Others: Kafka, Celery, Redis, Dramatiq, Docker.
+- Frameworks: FastAPI, Django, DRF, Flask
+- Stream processing, cache, queues: Kafka, Faust, Celery, Redis, Dramatiq
+- Databases and ORM: PostgreSQL, postgis, Django ORM, SQL Alchemy, Peewee, raw SQL
+- Monitoring tools: Grafana, Sentry, CloudWatch
+- AWS: ECS, EC2, CloudWatch, S3
+
 
 ### ✨ Close-up:
 
