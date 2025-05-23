@@ -5,7 +5,7 @@
 ### ✨ Technologies I use: 
 - Python
 - Frameworks: FastAPI, Django, DRF, Flask
-- Stream processing, cache, queues: Kafka, Faust, Celery, Redis, Dramatiq
+- Stream processing, cache, queues: Kafka, Airflow, Faust, Celery, Redis, Dramatiq
 - Databases and ORM: PostgreSQL, postgis, Django ORM, SQL Alchemy, Peewee, raw SQL
 - Monitoring tools: Grafana, Sentry, CloudWatch
 - AWS: ECS, EC2, CloudWatch, S3, Athena
